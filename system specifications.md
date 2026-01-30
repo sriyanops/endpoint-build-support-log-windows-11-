@@ -13,7 +13,7 @@
 | **Graphics (GPU)** | NVIDIA GeForce RTX 2060 Super 8 GB GDDR6 |
 | **Primary Storage (OS)** | 1 TB NVMe SSD |
 | **Secondary Storage** | 2 TB WD Blue SATA HDD |
-| **Cooling Solution** | NZXT Kraken X AIO CPU Cooler with configured front intake, rear exhaust, and top exhaust airflow|
+| **Cooling Solution** | NZXT Kraken X63 AIO CPU Cooler with configured front intake, rear exhaust, and top exhaust airflow|
 | **Power Supply (PSU)** | ASRock 650 W 80+ Gold Power Supply|
 | **Network – Ethernet** | Intel I225-V 2.5Gb Ethernet Controller|
 | **Network – Wi-Fi** | Intel(R) Wi-Fi 6 AX200 |
