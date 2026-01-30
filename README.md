@@ -3,7 +3,7 @@
 ## Overview
 This repository documents a custom Windows 11 desktop build from component selection through assembly, configuration, driver/firmware management, performance validation, and ongoing maintenance/troubleshooting.
 
-The purpose is to demonstrate practical endpoint hardware knowledge, structured documentation, and a repeatable support workflow.
+The purpose is to demonstrate practical endpoint hardware knowledge, structured documentation, and a repeatable desktop support workflow aligned with IT operations practices.
 
 ## What This Demonstrates
 - Hardware compatibility planning and component selection
