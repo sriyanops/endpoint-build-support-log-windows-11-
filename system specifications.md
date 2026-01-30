@@ -29,6 +29,18 @@
 | C:\ |SSD  | 1 TB | Boot |
 | D:\ |HDD  | 2 TB  | Mass Storage |
 
+### Peripherals
+| Category | Details |
+|--------|---------|
+| **Monitor** | HP X24i|
+| **Keyboard** | HyperX Alloy Core |
+| **Mouse** | SteelSeries Rival 310  |
+| **Headset** | Skull Candy Crusher EVO |
+| **Microphone** | Blue Snowball iCE |
+| **Webcam** | Generic|
+
+
+
 ### Validation Notes
 
 - All core devices recognized correctly
