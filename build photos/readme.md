@@ -3,20 +3,19 @@
 This directory contains visual documentation of the system at key stages of the build process.  
 Photos are included for verification, assembly reference, and hardware validation purposes.
 
----
 
 ## Included Images
 
 ### 1. Parts Overview
 **File:** [`parts.jpg`](./parts.jpg)
 
-![Parts Overview](./parts.jpg)
+<img src="./parts.jpg" alt="Parts Overview" width="600">
 
 Shows the primary system components prior to assembly, including:
 - Motherboard
 - CPU
 - Graphics card
-
+- Supporting components
 
 Purpose:
 - Confirms component selection
@@ -24,11 +23,10 @@ Purpose:
 - Provides traceability between parts and final system
 
 
-
 ### 2. Internal Build View
 **File:** [`inside_desktop_view.jpg`](./inside_desktop_view.jpg)
 
-![Internal Build View](./inside_desktop_view.jpg)
+<img src="./inside_desktop_view.jpg" alt="Internal Build View" width="600">
 
 Shows the internal layout of the assembled system with the side panel removed, including:
 - CPU cooler and pump placement
@@ -44,12 +42,12 @@ Purpose:
 **Note:** The system is normally configured with two memory modules installed (dual-channel).  
 One memory module was temporarily removed during troubleshooting and benchmarking to isolate variables and validate system stability.
 
----
+
 
 ### 3. Finished System
 **File:** [`finished_build.jpg`](./finished_build.jpg)
 
-![Finished System](./finished_build.jpg)
+<img src="./finished_build.jpg" alt="Finished System" width="600">
 
 Shows the completed system with the side panel installed.
 
@@ -58,7 +56,7 @@ Purpose:
 - Documents the operational endpoint form factor
 - Provides a reference image of the completed build
 
----
+
 
 ## Notes
 
@@ -67,4 +65,5 @@ Purpose:
 - Photos reflect a real, actively used system rather than a staged or unused build.
 
 These images support the broader goal of documenting endpoint assembly, configuration, and maintenance practices.
+
 
