@@ -16,6 +16,4 @@ The purpose is to demonstrate practical endpoint hardware knowledge, structured 
 ## Repository Sections
 - **system specifications/**: parts list, assembly notes, BIOS settings
 - **software/**: Windows setup, drivers/firmware, baseline config
-- **troubleshooting/**: issue log + common fixes
-- **benchmarks and thermals/**: baseline performance metrics + monitoring tools
 - **build photos/**: photos of parts and final build 
