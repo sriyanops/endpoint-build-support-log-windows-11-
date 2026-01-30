@@ -14,6 +14,8 @@ The purpose is to demonstrate practical endpoint hardware knowledge, structured 
 - Structured troubleshooting documentation
 
 ## Repository Sections
-- **system specifications/**: parts list, assembly notes, BIOS settings
-- **software/**: Windows setup, drivers/firmware, baseline config
-- **build photos/**: photos of parts and final build 
+- **system specifications.md**: parts list, assembly notes, BIOS settings
+- **software and drivers/**: Windows setup, drivers/firmware, baseline config
+- **build photos/**: photos of parts and final build
+- **thermals/**: thermal behaviour documentation
+- **troubleshooting/**: troubleshooting log
