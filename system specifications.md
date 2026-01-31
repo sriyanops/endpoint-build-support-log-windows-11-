@@ -47,7 +47,7 @@
 - No unknown devices present in Device Manager
 - System boots reliably into Windows 11
 
-**Note:** Firmware updates are evaluated periodically; system currently runs on a stable BIOS release.
+**Note:** Firmware updates are evaluated periodically; system currently runs on a stable BIOS release
 
 ### Assembly Notes
-- Total build from start to finish took about 8 hours. 
+- Total build from start to finish took about 8 hours
