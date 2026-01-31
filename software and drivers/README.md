@@ -30,7 +30,7 @@ Drivers were installed in a controlled sequence to minimize conflicts and ensure
 
 2. **Graphics Driver**
    - NVIDIA GeForce RTX 2060 SUPER driver installed using official NVIDIA package
-   - GeForce Experience and NVIDIA Control Panel installed to support easy future driver/display updates. 
+   - GeForce Experience and NVIDIA Control Panel installed to support easy future driver/display updates
 
 3. **Network Drivers**
    - Ethernet and Wi-Fi drivers verified for connectivity and stability
